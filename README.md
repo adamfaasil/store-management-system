@@ -1,8 +1,8 @@
-# Electronic Store Management System
+# store management system
 
 ## Description
 
-The Electronic Store Management System is a robust software application developed in C, designed to enhance the management and operational efficiency of an electronics retail store. This system provides a command-line interface for managing inventory, sales, and customer information, ensuring that store owners can effectively oversee their business processes.
+The Store Management System is a robust software application developed in C, designed to enhance the management and operational efficiency of a retail store. This system provides a command-line interface for managing inventory, sales, and customer information, ensuring that store owners can effectively oversee their business processes.
 
 ## Features
 
@@ -22,4 +22,4 @@ The Electronic Store Management System is a robust software application develope
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adamfaasil/Electronic-Store-Management-System.git
+   git clone https://github.com/adamfaasil/store-management-system.git
